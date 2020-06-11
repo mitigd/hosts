@@ -1,8 +1,8 @@
 #### S/P Game Blocklist
 
 # Unity Telemetry
-0.0.0.0 35.241.26.53
-0.0.0.0 35.241.52.229
+0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 cdp.cloud.unity3d.com
 
 # Epic Metrics
 0.0.0.0 metrics.ol.epicgames.com
